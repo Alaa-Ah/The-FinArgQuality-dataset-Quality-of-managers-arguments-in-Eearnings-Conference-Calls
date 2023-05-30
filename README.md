@@ -1,3 +1,10 @@
 # The-FinArgQuality-dataset---Quality-of-managers-arguments-in-ECCs
 
-Please don't share this data with anyone till we manage to publish it. At the moment, this is only available for your research work.
+If you use this data, please cite the following paper: 
+
+**Alaa Alhamzeh, Financial Argument Quality Assessment in
+Earnings Conference Calls, at the 34th DEXA conference 2023. 
+**
+
+If you are looking only for argument structure, please review FinArg: 
+https://github.com/Alaa-Ah/The-FinArg-Dataset-Argument-Mining-in-Financial-Earnings-Calls 
