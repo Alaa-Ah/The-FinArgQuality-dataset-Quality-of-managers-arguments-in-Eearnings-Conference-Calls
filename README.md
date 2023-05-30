@@ -1,4 +1,4 @@
-# The-FinArgQuality-dataset---Quality-of-managers-arguments-in-ECCs
+#The-FinArgQuality-dataset-Quality-of-managers-arguments-in-Eearnings-Conference-Calls (#ECCs)
 
 If you use this data, please cite the following paper: 
 
